@@ -1,14 +1,4 @@
-# 
-#        _                 _     _           _ _           _ 
- #      | |               | |   | |         | | |         | |
-  # __ _| |__   ___  _   _| |_  | |__  _   _| | |_   _  __| |
-  #/ _` | '_ \ / _ \| | | | __| | '_ \| | | | | | | | |/ _` |
- #| (_| | |_) | (_) | |_| | |_  | |_) | |_| | | | |_| | (_| |
-  #\__,_|_.__/ \___/ \__,_|\__| |_.__/ \__, |_|_|\__,_|\__,_|
-   #                                    __/ |                
-   #                                    |___/                 
-#
-
+#  𝗔𝗯𝗼𝘂𝘁 𝗕𝘆𝗹𝗹𝘂𝗱
 
 IP resolution: resolves the IP address of the website provided.
 Server response status: checks whether the request to the server was successful.
