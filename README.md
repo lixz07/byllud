@@ -1,5 +1,8 @@
 #  𝗔𝗯𝗼𝘂𝘁 𝗕𝘆𝗹𝗹𝘂𝗱
 
+This Python code is a "Website Analysis Tool" that allows the user to analyze a website for various characteristics, including:
+
+
 IP resolution: resolves the IP address of the website provided.
 Server response status: checks whether the request to the server was successful.
 Site language: tries to detect the predominant language of the page content.
