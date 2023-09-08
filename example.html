@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Website Analysis Tool</title>
+</head>
+<body>
+    <h1>Website Analysis Tool</h1>
+    <p>This tool allows you to analyze a website for various attributes.</p>
+    
+    <form action="analyze" method="post">
+        <label for="url">Enter the URL of the site to be analyzed:</label>
+        <input type="text" id="url" name="url" required>
+        <br>
+        <input type="submit" value="Analyze">
+    </form>
+    
+    <h2>Results</h2>
+    <table border="1">
+        <tr>
+            <th>Category</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>Request Status</td>
+            <td>Successful/Error</td>
+        </tr>
+        <!-- Add more rows for other attributes here -->
+    </table>
+</body>
+</html>
