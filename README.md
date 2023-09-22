@@ -1,10 +1,3 @@
-#  𝗔𝗯𝗼𝘂𝘁 𝗕𝘆𝗹𝗹𝘂𝗱
-
-![image](https://github.com/lixz07/byllud/assets/138683122/b1369732-f070-40a5-b0a1-868fbab333dc)
-
-
-
-
 This Python code is a "Website Analysis Tool" that allows the user to analyze a website for various characteristics, including:
 
 
@@ -24,7 +17,4 @@ The code uses libraries such as requests to make HTTP requests, BeautifulSoup to
 It provides a command line interface where you can enter the URL of the site you want to analyze and then displays detailed results based on the characteristics mentioned above. The code also includes an ASCII graphical representation on the page.
 
 
-
-
-
-![image](https://github.com/lixz07/byllud/assets/138683122/e154e642-e650-4f5b-a298-277b021a5ed9)
+![Capturar](https://github.com/lixz07/byllud/assets/138683122/e631a82e-59b7-4208-92d7-d0c6758481ca)
