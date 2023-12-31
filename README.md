@@ -18,3 +18,6 @@ It provides a command line interface where you can enter the URL of the site you
 
 ![image](https://github.com/lixz07/byllud/assets/138683122/a07eee32-df88-4105-891d-c8c5292092a6)
 
+![image](https://github.com/lixz07/byllud/assets/138683122/bb282e60-0bcc-4f2a-91c2-fb5c29b7702f)
+
+
