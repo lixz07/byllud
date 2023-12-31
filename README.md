@@ -16,3 +16,5 @@ The code uses libraries such as requests to make HTTP requests, BeautifulSoup to
 
 It provides a command line interface where you can enter the URL of the site you want to analyze and then displays detailed results based on the characteristics mentioned above. The code also includes an ASCII graphical representation on the page.
 
+![image](https://github.com/lixz07/byllud/assets/138683122/a07eee32-df88-4105-891d-c8c5292092a6)
+
